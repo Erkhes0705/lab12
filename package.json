@@ -1,0 +1,10 @@
+{
+  "name": "nzs-bag1",
+  "version": "1.0.0",
+  "description": "Номын сангийн зээлийн систем (НЗС) - SAD236 Лаборатори 12",
+  "main": "src/fine.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "ISC"
+}
